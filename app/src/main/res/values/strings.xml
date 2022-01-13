@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pmentes</string>
+    <string name="preferences">com.example.aplicacion.PREFERENCE_KEY</string>
+    <string name="default_web_client_id2">450015175982-j9mope9ivi8keqiq2rri8suik5r6tbmk.apps.googleusercontent.com</string>
+
+    <!--Facebook -->
+    <string name="facebook_application_id">899599307401944</string>
+    <string name="fb_login_protocol_scheme">fb899599307401944</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nombre</string>
+    <string name="nav_header_subtitle">Correo electrónico</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">logout</string>
+
+    <string name="menu_home">Home</string>
+    <!--string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string-->
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_task">Mis Tareas</string>
+    <string name="menu_chat">Chat</string>
+
+    <string name="menu_pay">Plan</string>
+    <string name="menu_booking">Reserva</string>
+    <string name="menu_notifications">Notificationes</string>
+    <string name="menu_help">Ayuda</string>
+    <string name="menu_exit">Cerrar Sesión</string>
+
+</resources>
